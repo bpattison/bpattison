@@ -1,0 +1,3 @@
+/home/bp/dev/tile3d/build/CMakeFiles/rebuild_cache.dir
+/home/bp/dev/tile3d/build/CMakeFiles/edit_cache.dir
+/home/bp/dev/tile3d/build/CMakeFiles/load_data.dir
