@@ -2,8 +2,9 @@ cmake_minimum_required(VERSION 3.18)
 
 project(tile3d CXX)
 
-set(CMAKE_C_COMPILER   /usr/bin/clang-13)
-set(CMAKE_CXX_COMPILER /usr/bin/clang++-13)
+# set(CMAKE_C_COMPILER   /usr/bin/clang-13 -G3)
+# set(CMAKE_CXX_COMPILER /usr/bin/clang++-13 -G3)
+# set(CMAKE_CXX_COMPILER_ID Clang)
 
 include(cmakes/macros.cmake)
 

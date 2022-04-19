@@ -1,0 +1,5 @@
+# ninja log v5
+198	254	1650051988665289989	load_data	bb14b3292e13e2b1
+0	197	1650051988605288947	CMakeFiles/load_data.dir/src/examples/load_data.cpp.o	41c6f8878d2bfa53
+0	196	1650059523358036312	CMakeFiles/load_data.dir/src/examples/load_data.cpp.o	e07d6c2144afc052
+196	258	1650059523418037341	load_data	5361138ac91e7018
